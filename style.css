@@ -1,0 +1,35 @@
+body{
+    background: #f4f4f4;
+}
+h1{
+    text-align: center;
+    color: white;
+    background-color:#3A61E2;
+    }
+
+    h1:hover{
+        background: #3a61e2 !important;
+    }
+
+p.p-1{
+    font-style: italic;
+    text-align: center;
+}
+div.image-container{
+text-align: center;
+}
+
+img{
+    width: 50%;
+    height: 50%;
+}
+
+footer{
+   text-align: center;
+   background: #3A61E2; 
+   /*top left bottom right  */
+   /* top&bottom || left&right */
+   /* UNITS: px, em, rem, percentages */
+   padding: 10px 0 ;
+}
+
